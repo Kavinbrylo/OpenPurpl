@@ -1,2 +1,2 @@
 # OpenPurpl
-OpenPurpl Astore UI
+OpenPurpl Astore UI using flutter 
